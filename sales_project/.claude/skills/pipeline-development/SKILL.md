@@ -32,12 +32,14 @@ Each phases use additional claude skills to do the job. Aim to find the correspo
 
 **Skills**: technical-design-document-writer
 
-# Phase 3 - Development
+# Phase 3 - Implementation
 
 **Primary Goal**: Implement the pipeline based on the technical documentation. This is the implementation task!
 **Expected Output**: it is a working solution for the required functions documented bu the Product Requirement Document. Use the technical documentation to (Technical Design Document) as the primary source for implementation details.
 
 Split the work into subtasks and find appropiate, bite-size pieces to iterate over the components of the implementation.
+
+**Skills**: pipeline-implementation
 
 # Phase 4 - Documentation (WIP)
 
@@ -45,6 +47,8 @@ Split the work into subtasks and find appropiate, bite-size pieces to iterate ov
 **Expected Output**: a set of documentation of the pipeline
     - high level architecture of data flow
     - catalog(s), schema(s), unity catalog objects with short description
+
+**Skills**: pipeline-documentation
 
 
 # Project Tracking

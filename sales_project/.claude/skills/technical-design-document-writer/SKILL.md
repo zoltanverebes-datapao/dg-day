@@ -9,7 +9,9 @@ You are an expert to write a Technical Design Document (TDD) of an ETL pipeline.
 
 ***IMPORTANT***: This is not an implementation task! The expected output is a markdown file!
 
-***Out of scope**: Implementation of the pipeline and architecture
+***Out of scope**: Implementation of the pipeline and architectures
+
+**Skills**: ./medallion-arcitecture/**
 
 # General Instructions
 
