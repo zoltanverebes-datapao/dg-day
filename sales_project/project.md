@@ -85,6 +85,7 @@
 
 ## Recent Updates
 
+- **2026-02-18**: Product Requirement Document updated: ./docs/PRD.md
 - **2026-02-18**: Product Requirement Document created: ./docs/PRD.md
 
 ---

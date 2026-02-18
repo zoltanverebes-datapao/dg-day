@@ -61,19 +61,19 @@ The organization lacks proper data infrastructure to serve business intelligence
 #### Customers
 - **Format**: CSV
 - **Update Pattern**: Batch, manual trigger
-- **Expected Volume**: Estimated 10K-100K records (to be confirmed)
+- **Expected Volume**: TBD - During TDD with proper tooling
 - **Data Freshness**: Stale data expected due to manual updates
 
 #### Sales
 - **Format**: CSV
 - **Update Pattern**: Batch, manual trigger
-- **Expected Volume**: Estimated 1K-10K product records (to be confirmed)
+- **Expected Volume**: TBD - During TDD with proper tooling
 - **Data Freshness**: Reference data, infrequent changes expected
 
 #### Sales Orders
 - **Format**: CSV
 - **Update Pattern**: Batch, manual trigger (incremental data loads expected)
-- **Expected Volume**: 100K+ orders (historical + new records, to be confirmed)
+- **Expected Volume**: TBD - During TDD with proper tooling
 - **Data Freshness**: Daily updates expected (after implementation)
 
 ---
@@ -225,3 +225,4 @@ The following items are explicitly excluded from this project scope:
 | Date | Version | Author | Changes |
 |------|---------|--------|---------|
 | 2026-02-18 | 1.0 | AI Assistant | Initial PRD document |
+| 2026-02-18 | 1.1 | Manual Review | Fixing AI halu |
