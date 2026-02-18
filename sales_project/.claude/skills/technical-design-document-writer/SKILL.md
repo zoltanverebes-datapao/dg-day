@@ -21,7 +21,6 @@ You are an expert to write a Technical Design Document (TDD) of an ETL pipeline.
 
 **Diagrams**: Use inline marmaide notion - Markdown tools can display them
 
-
 The document contains the following sections:
 
 # Architecture Overview
@@ -169,9 +168,9 @@ Document to use Databricks Asset Bundels (DAB) or different way to deploy the ap
 - Manual deployment example codes for local dev env
 - CI/CD deployment documentation
 
+# Databricks Enviornment
 
+Ask and document explicitly for the workspace URL and the client ID of the Databricks environment.
+Ask if the same URL/ClientId is used for the target envs (prod,stage,dev).
 
-
-
-
-
+It is required to setup proper databricks.yml in the next step
